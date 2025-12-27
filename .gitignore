@@ -22,7 +22,6 @@
 *.pidb\
 *.booproj\
 *.svd\
-*.csproj\
 \
 # Ignore OS generated files\
 .DS_Store\
